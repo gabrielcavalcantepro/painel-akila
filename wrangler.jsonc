@@ -1,0 +1,20 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "painel-akila",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-01",
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "painel-akila-db",
+      "database_id": "COLOQUE_AQUI_O_ID_DEPOIS_DE_RODAR_WRANGLER_D1_CREATE",
+      "migrations_dir": "./migrations"
+    }
+  ],
+  "vars": {
+    "ALLOWED_ORIGINS": ""
+  }
+}

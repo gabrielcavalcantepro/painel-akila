@@ -1,0 +1,25 @@
+{
+  "name": "painel-akila",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcavalcantepro/painel-akila.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gabrielcavalcantepro/painel-akila/issues"
+  },
+  "homepage": "https://github.com/gabrielcavalcantepro/painel-akila#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "wrangler": "^4.149.0"
+  }
+}
