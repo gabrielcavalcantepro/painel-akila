@@ -10,7 +10,7 @@
     {
       "binding": "DB",
       "database_name": "painel-akila-db",
-      "database_id": "COLOQUE_AQUI_O_ID_DEPOIS_DE_RODAR_WRANGLER_D1_CREATE",
+      "database_id": "5362f9bf-7cb6-4a6e-8b44-c02900316426",
       "migrations_dir": "./migrations"
     }
   ],
